@@ -19,11 +19,10 @@ st.image(image, width=150)
 st.markdown('## Summary', unsafe_allow_html=True)
 st.info('''
 - Detail cost control around with over 2 years of experience in monitoring analyze project
- expense adherence to budget constraints.adept collaborating with project teams for
- efficiency.. 
-- Detail cost control monitoring expert with data story telling dashboard with ms excel, power bi, and then streamlit web.
-- Service and helping project team for calculation Earn Value Management (EVM)
-- Have a diciplined attitude as well and never give up
+ expense adherence to budget constraints.adept collaborating with project teams based on data 
+- Dicipline, Strong Character, Hydbrid Work, loyally employee
+- Advantage cost control skills (Earn Value Management,Cost Clasification, Cost Control, Cost Reporting, 
+  Planning Control & Budgetting, Cost Allocation, Cost Tracking, SAP)
 ''')
 #####################
 # Navigation
@@ -87,6 +86,83 @@ def txt4(a, b, c):
     st.markdown(c)
 
 #####################
+
+#####################
+st.markdown('''
+## Work-Experience
+# ''')
+
+txt('**Cost Control** [Jurong Engineering Lestari]','November 2022 - Now')
+
+st.markdown('''
+- Coordimation and collaboration with site management for making WBS Element
+- Budget Documentation, Invoice, Cost Bid Tabulation
+- Handling and coordination with my lead cost control to project builder in SAP
+- Handling and coordination with my lead cost control to change project status
+- Coordination with  project control for making revenue planning 
+- Coordination with project manager for making cost planning
+- Creation Of Budget
+- Coordination with procurement site for Maintain Service Entry
+- Release Service Entry
+- Reviewing and documentation CBT document, Invoicing vendor, actuals, and forecast
+- Driving cost control across the project team
+- Assisting in monthly forecasts (updating cost and forecast)
+- Implementing baseline changes in the cost control tool (reclass cost)
+- Control monthly payroll an
+''')
+
+txt('**Cost Control** [Gunanusa Utama Fabricators]','Mei 2022 - Oktober 2022')
+
+st.markdown('''
+- Reporting Weekly Report Progress Project
+- Reporting Monthly Report Cost Project from other division
+- Analyze data supporting progress portion
+- Analyze variant progress claim from subcontractor
+- Payment Monitoring
+- Collecting data, reporting, and Vessel offshore from subcontractor
+- Monitoring Electrical, Instrument, and Telcom works
+''')
+
+txt('**Cost Control** [Recon Sarana Utama]','December 2021 - April 2022')
+
+st.markdown('''
+- Controlling budget with charts in excel
+- Verify Invoice data to site project, procurement division, and finance division
+- Verify Contract & Purchase Order to procurement and provide information about the impact with Monthly Report Cost Management
+- Cleaning data from several divisions with power query, formula and dax measure
+- Calculated recorded cost, unrecorded cost, remaining contract, comitted to date, estimate to complete, 
+  estimate at completion, incoming invoice
+- Verify Contract & Purchase Order to procurement and provide information about the impact with Monthly Monitoring 
+  cash flow from report finance site project, and finance division
+  Monitoring cash flow in chart Monthly Report Cost Management 
+''')
+
+txt('**General Affair** [Recon Sarana Utama]','March 2018 - September 2021')
+
+st.markdown('''
+- Controlling budget with charts in excel
+- Verify Invoice data to site project, procurement division, and finance division
+- Verify Contract & Purchase Order to procurement and provide information about the impact with Monthly Report Cost Management
+- Cleaning data from several divisions with power query, formula and dax measure
+- Calculated recorded cost, unrecorded cost, remaining contract, comitted to date, estimate to complete, 
+  estimate at completion, incoming invoice
+- Verify Contract & Purchase Order to procurement and provide information about the impact with Monthly Monitoring 
+  cash flow from report finance site project, and finance division
+  Monitoring cash flow in chart Monthly Report Cost Management 
+- Payroll Calculation in excel
+- Calculated Field Expenses for cost site project
+- Calculate back end orders consumable material in excel
+- Verify invoice price to vendor ,reporting to Project Manager and Project Control
+- Making Offering Letter and Contract employee, reporting to Project Manager
+- Supporting administration and documentation in or out employee,reporting to Project
+- Manager and Project Control
+- Supporting administration and documentation leaving on employee
+- Supporting administration and documentation tools of work
+- Supporting administration and documentation Consumable for employee 
+- Supporting administration and documentation cleanliness of the employee residence
+- Supporting administration and documentation in or out employee and reporting to Project
+  Manager and Project Control
+''')
 
 #####################
 st.markdown('''
@@ -241,82 +317,6 @@ st.markdown('''
 - Advance index-match, data validation and form
 ''')
 
-#####################
-st.markdown('''
-## Work-Experience
-# ''')
-
-txt('**Cost Control** [Jurong Engineering Lestari]','November 2022 - Now')
-
-st.markdown('''
-- Coordimation and collaboration with site management for making WBS Element
-- Budget Documentation, Invoice, Cost Bid Tabulation
-- Handling and coordination with my lead cost control to project builder in SAP
-- Handling and coordination with my lead cost control to change project status
-- Coordination with  project control for making revenue planning 
-- Coordination with project manager for making cost planning
-- Creation Of Budget
-- Coordination with procurement site for Maintain Service Entry
-- Release Service Entry
-- Reviewing and documentation CBT document, Invoicing vendor, actuals, and forecast
-- Driving cost control across the project team
-- Assisting in monthly forecasts (updating cost and forecast)
-- Implementing baseline changes in the cost control tool (reclass cost)
-- Control monthly payroll an
-''')
-
-txt('**Cost Control** [Gunanusa Utama Fabricators]','Mei 2022 - Oktober 2022')
-
-st.markdown('''
-- Reporting Weekly Report Progress Project
-- Reporting Monthly Report Cost Project from other division
-- Analyze data supporting progress portion
-- Analyze variant progress claim from subcontractor
-- Payment Monitoring
-- Collecting data, reporting, and Vessel offshore from subcontractor
-- Monitoring Electrical, Instrument, and Telcom works
-''')
-
-txt('**Cost Control** [Recon Sarana Utama]','December 2021 - April 2022')
-
-st.markdown('''
-- Controlling budget with charts in excel
-- Verify Invoice data to site project, procurement division, and finance division
-- Verify Contract & Purchase Order to procurement and provide information about the impact with Monthly Report Cost Management
-- Cleaning data from several divisions with power query, formula and dax measure
-- Calculated recorded cost, unrecorded cost, remaining contract, comitted to date, estimate to complete, 
-  estimate at completion, incoming invoice
-- Verify Contract & Purchase Order to procurement and provide information about the impact with Monthly Monitoring 
-  cash flow from report finance site project, and finance division
-  Monitoring cash flow in chart Monthly Report Cost Management 
-''')
-
-txt('**General Affair** [Recon Sarana Utama]','March 2018 - September 2021')
-
-st.markdown('''
-- Controlling budget with charts in excel
-- Verify Invoice data to site project, procurement division, and finance division
-- Verify Contract & Purchase Order to procurement and provide information about the impact with Monthly Report Cost Management
-- Cleaning data from several divisions with power query, formula and dax measure
-- Calculated recorded cost, unrecorded cost, remaining contract, comitted to date, estimate to complete, 
-  estimate at completion, incoming invoice
-- Verify Contract & Purchase Order to procurement and provide information about the impact with Monthly Monitoring 
-  cash flow from report finance site project, and finance division
-  Monitoring cash flow in chart Monthly Report Cost Management 
-- Payroll Calculation in excel
-- Calculated Field Expenses for cost site project
-- Calculate back end orders consumable material in excel
-- Verify invoice price to vendor ,reporting to Project Manager and Project Control
-- Making Offering Letter and Contract employee, reporting to Project Manager
-- Supporting administration and documentation in or out employee,reporting to Project
-- Manager and Project Control
-- Supporting administration and documentation leaving on employee
-- Supporting administration and documentation tools of work
-- Supporting administration and documentation Consumable for employee 
-- Supporting administration and documentation cleanliness of the employee residence
-- Supporting administration and documentation in or out employee and reporting to Project
-  Manager and Project Control
-''')
 
 #####################
 st.markdown('''
@@ -327,4 +327,4 @@ txt3('Data processing/wrangling', '`pandas`,`Power Query`')
 txt3('Data visualization', '`matplotlib`, `seaborn`, `plotly`,`Power BI`,`Excel`')
 txt3('Machine Learning', '`Timeseries`')
 txt3('Model deployment', '`streamlit`')
-txt3('Cost Control', '`Earn Value Management`,`Cost Clasification`, `Cost Control`, `Cost Reporting`, `Planning Control & Budgetting`,`Cost Allocation`, `Cost Tracking`')
+txt3('Cost Control', '`Earn Value Management`,`Cost Clasification`, `Cost Control`, `Cost Reporting`, `Planning Control & Budgetting`,`Cost Allocation`, `Cost Tracking`, `SAP`')
