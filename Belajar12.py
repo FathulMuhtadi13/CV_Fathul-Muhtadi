@@ -13,7 +13,7 @@ st.write('''
 ''')
 
 
-image = Image.open('fathulcartoon.jpg')
+image = Image.open('fathulcartoon.jpeg')
 st.image(image, width=150)
 
 st.markdown('## Summary', unsafe_allow_html=True)
