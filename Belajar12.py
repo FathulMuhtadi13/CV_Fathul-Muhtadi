@@ -322,9 +322,9 @@ st.markdown('''
 st.markdown('''
 ## Skills
 ''')
-txt3('Programming', '`Python`,`Visual Basic`')
+txt3('Programming', '`Python Basic`,`Visual Basic`')
 txt3('Data processing/wrangling', '`pandas`,`Power Query`')
-txt3('Data visualization', '`matplotlib`, `seaborn`, `plotly`,`Power BI`,`Excel`')
+txt3('Data visualization', '`Power BI`,`Excel`')
 txt3('Machine Learning', '`Timeseries`')
 txt3('Model deployment', '`streamlit`')
 txt3('Cost Control', '`Earn Value Management`,`Cost Clasification`, `Cost Control`, `Cost Reporting`, `Planning Control & Budgetting`,`Cost Allocation`, `Cost Tracking`, `SAP`')
